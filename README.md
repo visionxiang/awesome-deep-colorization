@@ -4,6 +4,15 @@ A curated list of awesome resources for colorization. We will keep updating it.
 
 :heavy_exclamation_mark:Updated 2021-09-20.
 
+--------------------------------------------------------------------------------------
+<!--TOC-->
+### Content:
+- [Preprint](#Preprint)
+- [Papers of 2015 to Present](#2021)
+- [Colorization Others](#Colorization-Others)
+- [Appendix](#Appendix)
+
+--------------------------------------------------------------------------------------
 
 
 ### Preprint
@@ -24,7 +33,6 @@ A curated list of awesome resources for colorization. We will keep updating it.
 TIP | Self-Supervised Colorization Towards Monochrome-Color Camera Systems Using Cycle CNN | Xuan Dong, Yunhong Wang, et al. | [Paper](https://ieeexplore.ieee.org/document/9489277)/Code 
 TIP | Dual Color Space Guided Sketch Colorization | Zhi Dou, et al. | [Paper](https://ieeexplore.ieee.org/document/9515572)/Code 
 TVCG | A Colorization Framework for Monochrome-Color Dual-Lens Systems using a Deep Convolutional Network | Xuan Dong, Yunhong Wang, et al. | [Paper](https://dongxuan8811.github.io/PDF_files/TVCG2020.pdf)/Code 
- |  |   |  
 TVCG | Interactive Deep Colorization and Its Application for Image Compression | Yi Xiao, et al. | [Paper](https://ieeexplore.ieee.org/document/9186041)/[Code](https://github.com/praywj/Interactive-Deep-Colorization-and-Compression) 
 TVCG | Palettailor: Discriminable Colorization for Categorical Data | Kecheng Lu, et al. | [Paper](https://ieeexplore.ieee.org/abstract/document/9222351)/Code 
 TNN | Broad Colorization | Yuxi Jin, et al. | [Paper](https://ieeexplore.ieee.org/document/9132683)/Code
