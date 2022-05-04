@@ -30,6 +30,7 @@ A curated list of awesome resources for colorization. We will keep updating it.
 **Pub.** | **Title** | **Author** | **Links**
 :-: | :-  | :- | :-  
 CVPR | Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization | Yuan-Kui Li, Yu-Shuen Wang, et al. | Paper/Code 
+AAAI | SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution | Jiangning Zhang, et al. | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-528.ZhangJ.pdf)/Code
 
 
 
