@@ -26,6 +26,13 @@ A curated list of awesome resources for colorization. We will keep updating it.
 2020 | arXiv08 | Image Colorization: A Survey and Dataset | Saeed Anwar, et al. | [Paper](https://arxiv.org/abs/2008.10774)/[Proj](https://github.com/saeed-anwar/ColorSurvey)
 
 
+### 2022 
+**Pub.** | **Title** | **Author** | **Links**
+:-: | :-  | :- | :-  
+CVPR | Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization | Yuan-Kui Li, Yu-Shuen Wang, et al. | Paper/Code 
+
+
+
 ### 2021
 
 **Pub.** | **Title** | **Author** | **Links**
