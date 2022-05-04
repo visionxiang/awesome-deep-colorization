@@ -31,6 +31,7 @@ A curated list of awesome resources for colorization. We will keep updating it.
 :-: | :-  | :- | :-  
 CVPR | Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization | Yuan-Kui Li, Yu-Shuen Wang, et al. | Paper/Code 
 AAAI | SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution | Jiangning Zhang, et al. | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-528.ZhangJ.pdf)/Code
+AAAI | L-CoDe: Language-based Colorization using Color-object Decoupled Conditions | Shuchen Weng, Hao Wu, et al. | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1564.WengS.pdf)/Code
 
 
 
@@ -79,6 +80,7 @@ AAAI | <span style="white-space:nowrap;">Cycle-CNN for Colorization towards Real
 :-: | :-  | :- | :-  
 TOG | DeepRemaster: temporal source-reference attention networks for comprehensive video enhancement | Satoshi Iizuka, Edgar Simo-Serra | [Paper](http://iizuka.cs.tsukuba.ac.jp/projects/remastering/data/remastering_siggraphasia2019.pdf)/[Code](https://github.com/satoshiiizuka/siggraphasia2019_remastering)<br>[Proj](http://iizuka.cs.tsukuba.ac.jp/projects/remastering/en/index.html)
 TIP | Automatic Example-Based Image Colorization Using Location-Aware Cross-Scale Matching | Bo Li, Yu-Kun Lai, et al. | [Paper](https://ieeexplore.ieee.org/document/8699109)/Code 
+SIG-A | Language-based Colorization of Scene Sketches | Changqing Zou, Haoran Mo, et al. | [Paper](http://mo-haoran.com/files/SIGA19/SketchColorization_paper_SA2019.pdf)/[Code](https://github.com/SketchyScene/SketchySceneColorization)/[Proj](https://sketchyscene.github.io/SketchySceneColorization/)
 CGF | Example-Based Colourization Via Dense Encoding Pyramids | Chufeng Xiao, Tien-Tsin Wong, et al. | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13659)/[Code](https://github.com/chufengxiao/Example-based-Colorization-via-Dense-Encoding-Pyramids)
 ICCV | Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss |  Hyunsu Kim, et al. | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf)/[Code](https://github.com/blandocs/Tag2Pix) 
 MM | Adversarial Colorization of Icons based on Contour and Color Conditions | Tsai-Ho Sun, Chien-Hsun Lai, et al. | [Paper](https://arxiv.org/pdf/1910.05253.pdf)/[Code](https://github.com/jxcodetw/Adversarial-Colorization-Of-Icons-Based-On-Structure-And-Color-Conditions?utm_source=catalyzex.com)
