@@ -8,7 +8,7 @@ A curated list of awesome resources for colorization. We will keep updating it.
 <!--TOC-->
 ### Content:
 - [Preprint](#Preprint)
-- [Papers of 2015 to Present](#2021)
+- [Papers of 2015 to Present](#2022)
 - [Colorization Others](#Colorization-Others)
 - [Appendix](#Appendix)
 
