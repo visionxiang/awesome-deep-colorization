@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for colorization. We will keep updating it. 
 
-:heavy_exclamation_mark:Updated 2022-05.
+:heavy_exclamation_mark:Updated 2022-07.
 
 --------------------------------------------------------------------------------------
 <!--TOC-->
@@ -20,7 +20,7 @@ A curated list of awesome resources for colorization. We will keep updating it.
 **Year** | **Pub.** | **Title** | **Author** | **Links**
 :-: | :-: | :-  | :- | :- 
 2021 | arXiv08 | Towards Photorealistic Colorization by Imagination | Chenyang Lei, Yue Wu, Qifeng Chen | [Paper](https://arxiv.org/abs/2108.09195)/Code
-2021 | arXiv07 | Attention-Guided NIR Image Colorization via Adaptive Fusion of Semantic and Texture Clues | Xingxing Yang, Jie Chen, Zaifeng Yang, et al. | [Paper](https://arxiv.org/pdf/2107.09237.pdf)/Code
+2021 | arXiv07 | Attention-Guided NIR Image Colorization via Adaptive Fusion of Semantic and Texture Clues | Xingxing Yang, Jie Chen, Zaifeng Yang, et al. | [Paper](https://arxiv.org/abs/2107.09237)/Code
 2021 | arXiv06 | Color2Embed: Fast Exemplar-Based Image Colorization using Color Embeddings | Hengyuan Zhao, Wenhao Wu, et al. | [Paper](https://arxiv.org/abs/2106.08017)/[Code](https://github.com/zhaohengyuan1/Color2Embed)
 2021 | arXiv05 | <span style="white-space:nowrap;">Attention-based Stylisation for Exemplar Image Colourisation&emsp;</span> | <span style="white-space:nowrap;">Marc Gorriz Blanch, et al.&emsp;</span> | [Paper](https://arxiv.org/pdf/2105.01705.pdf)/[Code](https://github.com/bbc/xcnet)
 2020 | arXiv08 | Image Colorization: A Survey and Dataset | Saeed Anwar, et al. | [Paper](https://arxiv.org/abs/2008.10774)/[Proj](https://github.com/saeed-anwar/ColorSurvey)
@@ -29,6 +29,10 @@ A curated list of awesome resources for colorization. We will keep updating it.
 ### 2022 
 **Pub.** | **Title** | **Author** | **Links**
 :-: | :-  | :- | :-  
+ECCV | Bridging the Domain Gap towards Generalization in Automatic Colorization | Hyejin Lee, et al. | Paper/[Code](https://github.com/Lhyejin/DG-Colorization)
+ECCV | BigColor: Colorization using a Generative Color Prior for Natural Images | Geonung Kim, et al. | Paper/[Proj](https://kimgeonung.github.io/bigcolor)/<br>[Code](https://github.com/KIMGEONUNG/BigColor)
+ECCV | ColorFormer: Image Colorization via Color Memory assisted Hybrid-attention Transformer | -- | Paper/Code
+ECCV | CT2: Coloriztation Transformer via Color Tokens | Shuchen Weng, Boxin Shi, et al. | Paper/Code
 CVPR | Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization | Yuan-Kui Li, Yu-Shuen Wang, et al. | Paper/Code 
 AAAI | SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution | Jiangning Zhang, et al. | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-528.ZhangJ.pdf)/Code
 AAAI | L-CoDe: Language-based Colorization using Color-object Decoupled Conditions | Shuchen Weng, Hao Wu, et al. | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1564.WengS.pdf)/Code
