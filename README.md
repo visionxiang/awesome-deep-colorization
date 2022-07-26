@@ -100,17 +100,17 @@ A curated list of awesome resources for colorization. We will keep updating it.
 ### 2018
 
 **Year** |**Pub.** | **Title** | **Links**
-:-: | :-  | :- | :- 
-ECCV | Tracking Emerges by Colorizing Videos  <br> <sub><sup>*Carl Vondrick, et al.*</sup></sub>|[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Vondrick_Self-supervised_Tracking_by_ECCV_2018_paper.pdf)/[Code](https://github.com/hyperparameters/tracking_via_colorization)
-ECCV | Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation  <br> <sub><sup>*Hyojin Bahng, Seungjoo Yoo, et al.*</sup></sub>|[Paper](https://arxiv.org/abs/1804.04128)/[Code](https://github.com/awesome-davian/Text2Colors)
-ECCV | Structural Consistency and Controllability for Diverse Colorization  <br> <sub><sup>*Safa Messaoud, David Forsyth, et al.*</sup></sub>|[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Safa_Messaoud_Structural_Consistency_and_ECCV_2018_paper.pdf)/Code
-ECCV | Switchable Temporal Propagation Network  <br> <sub><sup>*Sifei Liu, Ming-Hsuan Yang, et al.*</sup></sub> | [Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sifei_Liu_Switchable_Temporal_Propagation_ECCV_2018_paper.pdf)/Code
-MM | User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks <br> <sub><sup>*Yuanzheng Ci, et al.*</sup></sub> | [Paper](https://dl.acm.org/doi/10.1145/3240508.3240661)/[Code](https://github.com/orashi/AlacGAN)
-SIG | Deep Exemplar-based Colorization <br> <sub><sup>*Mingming He, Lu Yuan, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/1807.06587)/[Code](https://github.com/msracver/Deep-Exemplar-based-Colorization)
-SIG | Progressive Color Transfer with Dense Semantic Correspondences <br> <sub><sup>*Mingming He, Lu Yuan, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/1710.00756.pdf)/[Code](https://github.com/hmmlillian/Neural-Color-Transfer)
-SIGA | Two-stage sketch colorization <br> <sub><sup>*Lvmin Zhang, Tien-Tsin Wong, et al.*</sup></sub> | [Paper](http://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.pdf)/[Proj](https://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.html)
-AAAI | <span style="white-space:nowrap;">Learning Generative Neural Networks for 3D Colorization         &emsp;&emsp;&emsp;&emsp;</span>  <br> <sub><sup>*Z. Yang, L. Liu, Qixing Huang*</sup></sub>  | [Paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17379)/Codee 
-TVCG | A Data-Driven Approach for Furniture and Indoor Scene Colorization <br> <sub><sup>*Jie Zhu, Yanwen Guo, Han Ma*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/8039524)/Code 
+:-: | :-:  | :- | :- 
+2018 | ECCV | Tracking Emerges by Colorizing Videos  <br> <sub><sup>*Carl Vondrick, et al.*</sup></sub>|[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Vondrick_Self-supervised_Tracking_by_ECCV_2018_paper.pdf)/[Code](https://github.com/hyperparameters/tracking_via_colorization)
+2018 | ECCV | Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation  <br> <sub><sup>*Hyojin Bahng, Seungjoo Yoo, et al.*</sup></sub>|[Paper](https://arxiv.org/abs/1804.04128)/[Code](https://github.com/awesome-davian/Text2Colors)
+2018 | ECCV | Structural Consistency and Controllability for Diverse Colorization  <br> <sub><sup>*Safa Messaoud, David Forsyth, et al.*</sup></sub>|[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Safa_Messaoud_Structural_Consistency_and_ECCV_2018_paper.pdf)/Code
+2018 | ECCV | Switchable Temporal Propagation Network  <br> <sub><sup>*Sifei Liu, Ming-Hsuan Yang, et al.*</sup></sub> | [Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sifei_Liu_Switchable_Temporal_Propagation_ECCV_2018_paper.pdf)/Code
+2018 | MM | User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks <br> <sub><sup>*Yuanzheng Ci, et al.*</sup></sub> | [Paper](https://dl.acm.org/doi/10.1145/3240508.3240661)/[Code](https://github.com/orashi/AlacGAN)
+2018 | SIG | Deep Exemplar-based Colorization <br> <sub><sup>*Mingming He, Lu Yuan, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/1807.06587)/[Code](https://github.com/msracver/Deep-Exemplar-based-Colorization)
+2018 | SIG | Progressive Color Transfer with Dense Semantic Correspondences <br> <sub><sup>*Mingming He, Lu Yuan, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/1710.00756.pdf)/[Code](https://github.com/hmmlillian/Neural-Color-Transfer)
+2018 | SIGA | Two-stage sketch colorization <br> <sub><sup>*Lvmin Zhang, Tien-Tsin Wong, et al.*</sup></sub> | [Paper](http://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.pdf)/[Proj](https://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.html)
+2018 | AAAI | <span style="white-space:nowrap;">Learning Generative Neural Networks for 3D Colorization         &emsp;&emsp;&emsp;&emsp;</span>  <br> <sub><sup>*Z. Yang, L. Liu, Qixing Huang*</sup></sub>  | [Paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17379)/Codee 
+2018 | TVCG | A Data-Driven Approach for Furniture and Indoor Scene Colorization <br> <sub><sup>*Jie Zhu, Yanwen Guo, Han Ma*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/8039524)/Code 
 
 
 ### 2017
