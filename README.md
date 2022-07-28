@@ -74,7 +74,7 @@ A curated list of awesome resources for colorization. We will keep updating it.
 2020 | AAAI | <span style="white-space:nowrap;">Cycle-CNN for Colorization towards Real Monochrome-Color Camera Systems&emsp;</span>  <br> <sub><sup>*Xuan Dong, Yunhong Wang, et al.*</sup></sub> | [Paper](https://aaai.org/ojs/index.php/AAAI/article/view/6700)/Code 
 2020 | IJCV | Pixelated Semantic Colorization <br> <sub><sup>*Jiaojiao Zhao, Jungong Han, et al.*</sup></sub> | [Paper](https://link.springer.com/article/10.1007/s11263-019-01271-4)/Code 
 2020 | TVCG | A Superpixel-Based Variational Model for Image Colorization <br> <sub><sup>*Faming Fang, Guixu Zhang, et al.*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/8676327)/Code 
-2020 | TVCG | Active Colorization for Cartoon Line Drawings <br> <sub><sup>*Shu-Yu Chen, et al. | [Paper](https://ieeexplore.ieee.org/document/9143503)/Code 
+2020 | TVCG | Active Colorization for Cartoon Line Drawings <br> <sub><sup>*Shu-Yu Chen, et al.*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/9143503)/Code 
 2020 | TMM | Automated Colorization of a Grayscale Image With Seed Points Propagation <br> <sub><sup>*Shaohua Wan, et al.*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/9018158)/Code 
 2020 | TSCVT | SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network <br> <sub><sup>*Yuzhi Zhao, et al.*</sup></sub> | [arXiv](https://arxiv.org/pdf/2011.11377.pdf)/[Code](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN)
 
