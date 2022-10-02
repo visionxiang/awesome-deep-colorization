@@ -35,6 +35,7 @@ A curated list of awesome resources for colorization. We will keep updating it.
 2022 | ECCV | ColorFormer: Image Colorization via Color Memory assisted Hybrid-attention Transformer  <br> <sub><sup>*X. Ji, B. Jiang, D. Luo, G. Tao, et al.*</sup></sub>  | [Paper](https://drive.google.com/file/d/19jhYLzOsCpDsG1ntvg6rfV-4NzHPKEwW/view)/Code
 2022 | ECCV | CT2: Coloriztation Transformer via Color Tokens <br> <sub><sup>*Shuchen Weng, Boxin Shi, et al.*</sup></sub> | Paper/Code
 2022 | CVPR | Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization <br> <sub><sup>*Yuan-Kui Li, Yu-Shuen Wang, et al.*</sup></sub> | Paper/Code 
+2022 | SIGGRAPH | Palette: Image-to-Image Diffusion Models <br> <sub><sup>*Chitwan Saharia, William Chan, Huiwen Chang, Chris A Lee, Jonathan Ho, Tim Salimans, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2111.05826.pdf)/[Code](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models) 
 2022 | AAAI | SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution <br> <sub><sup>*Jiangning Zhang, et al.*</sup></sub> | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-528.ZhangJ.pdf)/Code
 2022 | AAAI | L-CoDe: Language-based Colorization using Color-object Decoupled Conditions <br> <sub><sup>*Shuchen Weng, Hao Wu, et al.*</sup></sub> | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1564.WengS.pdf)/Code
 
