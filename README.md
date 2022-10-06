@@ -22,7 +22,6 @@ A curated list of awesome resources for colorization. We will keep updating it.
 2021 | arXiv08 | Towards Photorealistic Colorization by Imagination <br> <sub><sup>*Chenyang Lei, Yue Wu, Qifeng Chen*</sup></sub> | [Paper](https://arxiv.org/abs/2108.09195)/Code
 2021 | arXiv07 | Attention-Guided NIR Image Colorization via Adaptive Fusion of Semantic and Texture Clues <br> <sub><sup>*Xingxing Yang, Jie Chen, Zaifeng Yang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2107.09237)/Code
 2021 | arXiv06 | Color2Embed: Fast Exemplar-Based Image Colorization using Color Embeddings <br> <sub><sup>*Hengyuan Zhao, Wenhao Wu, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2106.08017)/[Code](https://github.com/zhaohengyuan1/Color2Embed)
-2021 | arXiv05 | <span style="white-space:nowrap;">Attention-based Stylisation for Exemplar Image Colourisation&emsp;</span> <br> <sub><sup>*Marc Gorriz Blanch, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2105.01705.pdf)/[Code](https://github.com/bbc/xcnet)
 2020 | arXiv08 | Image Colorization: A Survey and Dataset <br> <sub><sup>*Saeed Anwar, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2008.10774)/[Proj](https://github.com/saeed-anwar/ColorSurvey)
 
 
