@@ -25,6 +25,14 @@ A curated list of awesome resources for colorization. We will keep updating it.
 2020 | arXiv08 | Image Colorization: A Survey and Dataset <br> <sub><sup>*Saeed Anwar, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2008.10774)/[Code](https://github.com/saeed-anwar/ColorSurvey)
 
 
+### 2023
+
+**Year** | **Pub.** | **Title** | **Links**
+:-: | :-  | :- | :- 
+2023 | ICRA | Scene-level Point Cloud Colorization with Semantic-and-Geometric-aware Networks   <br> <sub><sup>*Rongrong Gao, Tian-Zhu Xiang, Chenyang Lei, Jaesik Park, Qifeng Chen*</sup></sub> | Paper/Code
+
+
+
 ### 2022 
 
 **Year** | **Pub.** | **Title** | **Links**
