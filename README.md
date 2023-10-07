@@ -29,7 +29,8 @@ A curated list of awesome resources for colorization. We will keep updating it.
 
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-  | :- | :- 
-2023 | ICRA | Scene-level Point Cloud Colorization with Semantic-and-Geometric-aware Networks   <br> <sub><sup>*Rongrong Gao, Tian-Zhu Xiang, Chenyang Lei, Jaesik Park, Qifeng Chen*</sup></sub> | Paper/Code
+2023 | ICCV | Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation  <br> <sub><sup>*Zijie Wu, Yaonan Wang, Mingtao Feng, He Xie, Ajmal Mian*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Sketch_and_Text_Guided_Diffusion_Model_for_Colored_Point_Cloud_ICCV_2023_paper.pdf)/Code
+2023 | ICRA | Scene-level Point Cloud Colorization with Semantic-and-Geometric-aware Networks   <br> <sub><sup>*Rongrong Gao, Tian-Zhu Xiang, Chenyang Lei, Jaesik Park, Qifeng Chen*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10161469)/[Code](https://github.com/rrgao/Point_Cloud_Colorization)
 
 
 
