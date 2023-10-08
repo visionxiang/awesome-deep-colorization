@@ -46,8 +46,8 @@ A curated list of awesome resources for colorization. We will keep updating it.
 2022 | CVPR | Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization <br> <sub><sup>*Yuan-Kui Li, Yu-Shuen Wang, et al.*</sup></sub> | Paper/Code 
 2022 | SIGGRAPH | Palette: Image-to-Image Diffusion Models <br> <sub><sup>*Chitwan Saharia, William Chan, Huiwen Chang, Chris A Lee, Jonathan Ho, Tim Salimans, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2111.05826.pdf)/[Code](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models) 
 2022 | AAAI | SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution <br> <sub><sup>*Jiangning Zhang, et al.*</sup></sub> | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-528.ZhangJ.pdf)/Code
-2022 | AAAI | L-CoDe: Language-based Colorization using Color-object Decoupled Conditions <br> <sub><sup>*Shuchen Weng, Hao Wu, et al.*</sup></sub> | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1564.WengS.pdf)/Code
-
+2022 | AAAI | L-CoDe: Language-based Colorization using Color-object Decoupled Conditions <br> <sub><sup>*Shuchen Weng, Hao Wu, et al*</sup></sub> | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1564.WengS.pdf)/Code
+2022 | EAAI | Deep learning for image colorization: Current and future prospects   <br> <sub><sup>*Shanshan Huang, Xin Jin, Qian Jiang, Li Liu*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197622001920)/Code
 
 
 ### 2021
